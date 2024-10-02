@@ -8,7 +8,7 @@ This project analyzes Tennis players in a video to measure their speed, ball sho
 Here is a screenshot from one of the output videos:
 
 ![Screenshot](output_videos/screenshot.jpeg)
-![Video](https://drive.google.com/file/d/1mO8R9VAGAq_1WsZo4K5c3_6_kx1dnGFk/view?usp=sharing)
+![Watch the video](https://drive.google.com/file/d/1mO8R9VAGAq_1WsZo4K5c3_6_kx1dnGFk/view?usp=sharing)
 
 ## Add dataset 
 drivelink:https://drive.google.com/drive/folders/1Nc_aGyonVLe_DWhZAYgXJr6ZMEfpxOrj?usp=sharing
